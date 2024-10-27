@@ -1,8 +1,26 @@
-# React + Vite
+# React Menu Cards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React Menu Item Screenshot](react-menu-item-screenshot.png)
 
-Currently, two official plugins are available:
+## About The Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A react app that displays a Menu with a number of Menu Cards populated using Props.
+
+## Built With
+
+- React
+- Tailwind CSS
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Contact
+
+1. Shane Kenzler <shanekenzler@gmail.com>
+
+## Acknowledgments
+
+- Hitesh Choudhary
+- [Github](https://github.com)
+- [VS Code](https://code.visualstudio.com)
