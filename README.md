@@ -1,7 +1,5 @@
 # React Menu Cards
 
-![React Menu Item Screenshot](react-menu-item-screenshot.png)
-
 ## About The Project
 
 A react app that displays a Menu with a number of Menu Cards populated using Props.
@@ -21,6 +19,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Acknowledgments
 
-- Hitesh Choudhary
 - [Github](https://github.com)
 - [VS Code](https://code.visualstudio.com)
